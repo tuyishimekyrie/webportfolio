@@ -1,0 +1,24 @@
+.gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 4rem 0 0 0;
+    gap: 1.5rem;
+}
+.gallery img{
+    width: 18rem;
+    height: 18rem;
+    object-fit: contain;
+}
+
+@media screen and (max-width: 800px){
+    .gallery {
+        margin: 2rem 0 0 0;
+        gap: .5rem;
+    }
+    .gallery img {
+        width: 10vw;
+        height: 10vh;
+    } 
+}
