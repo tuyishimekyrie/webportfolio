@@ -3,7 +3,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 1rem 1.5rem 1rem;
+    padding: 1rem;
     position: relative;
     z-index: 1;
     border-bottom: 1px solid #334155;
@@ -36,7 +36,7 @@ font-weight: bold;
 
 .header__links {
     display: flex;
-}   /* justify-content: space-between; */
+}   
 .header__links-link a {
     padding:  .5rem  .5rem;
     list-style:none;
@@ -53,9 +53,11 @@ font-weight: bold;
     transition: all .15s ease-in-out;
 }
 .header__links-link:hover{
+    padding:  .5rem  .5rem;
     border-bottom: 1px solid #f8fafc;
     color: #fff;
     cursor: pointer;
+    transition: all .2s ease-in-out;
 }
 .header__button button {
 padding: 1rem 2rem;
