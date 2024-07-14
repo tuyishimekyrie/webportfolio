@@ -42,10 +42,8 @@ let i = 0;
 const intervalId = setInterval(() => {
   if (i < professions.length) {
     spanContent.innerText = professions[i];
-    // console.log(professions[i]);
     i++;
   } else {
-    // clearInterval(intervalId);
     i = 0;
   }
 }, 2000);
