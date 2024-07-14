@@ -3,6 +3,7 @@
     height: calc(700px - 100px);
     display: flex;
     flex-direction: row;
+    flex-wrap:wrap;
     justify-content: space-around;
     align-items: center;
 }
