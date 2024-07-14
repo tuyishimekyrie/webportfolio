@@ -1,41 +1,42 @@
 
-# My Portfolio Website🚀
+
+# My Portfolio Website 🚀
 
 ![Website Preview](./assets/Screenshot_14-7-2024_10336_127.0.0.1.jpeg)
 
 ## Table of Contents
 
-1. [About Us](#about-us)
-2. [Profile](#profile)
-3. [Portfolio](#portfolio)
-4. [Gallery](#gallery)
-5. [Contact Us](#contact-us)
+1. [About Us](#about-us) 📖
+2. [Profile](#profile) 👤
+3. [Portfolio](#portfolio) 💼
+4. [Gallery](#gallery) 🖼️
+5. [Contact Us](#contact-us) 📞
 
-## About Us
+## About Us 📖
 
 Welcome to my portfolio website! Here, you can learn more about my background, skills, and experiences.
 
-## Profile
+## Profile 👤
 
 A brief introduction to who I am, my personal profile, and what I do.
 
-## Portfolio
+## Portfolio 💼
 
 Showcasing my skills and experience through various projects.
 
-## Gallery
+## Gallery 🖼️
 
 A collection of photos that highlight my work and achievements.
 
-## Contact Us
+## Contact Us 📞
 
 Feel free to reach out via email, Instagram, or phone.
 
-| Method       | Contact Info                     |
-|--------------|----------------------------------|
-| **Email**    | [example@example.com](mailto:example@example.com) |
-| **Instagram**| [@example](https://instagram.com/example)         |
-| **Phone**    | +123 456 7890                    |
+| Method       | Contact Info                                                |
+|--------------|-------------------------------------------------------------|
+| **Email**    | [example@example.com](mailto:example@example.com)           |
+| **Instagram**| [@example](https://instagram.com/example)                   |
+| **Phone**    | +123 456 7890                                               |
 
 ---
 
@@ -57,10 +58,3 @@ Here's an example of how to preserve formatting in Markdown:
 </html>
 ```
 
-### Additional Details
-
-For more detailed information about each section, visit the respective pages linked above.
-
----
-
-Feel free to customize this template to better suit your needs.
