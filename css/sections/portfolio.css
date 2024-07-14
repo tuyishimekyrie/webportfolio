@@ -35,6 +35,7 @@ table tr{
 }
 .skills__stack img{
     width: 50px;
+    border-radius: .5rem
 }
 .projects h2 {
     text-align: center;
