@@ -1,9 +1,9 @@
 
 .contact {
-    height: calc(100vh - 100px);
+    height: calc(700px - 100px);
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    flex-direction: row;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -27,6 +27,7 @@
     flex-direction: column;
     justify-content: space-between;
     gap: 1.2rem 0;
+    margin: 2rem 0 0 0;
 }
 .contact__form h2 {
     text-align: center;
