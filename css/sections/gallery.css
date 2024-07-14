@@ -7,9 +7,10 @@
     gap: 1.5rem;
 }
 .gallery img{
-    width: 18rem;
-    height: 18rem;
-    object-fit: contain;
+    width: 15rem;
+    height: 15rem;
+    object-fit: cover;
+    border-radius: .5rem;
 }
 
 @media screen and (max-width: 800px){
