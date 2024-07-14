@@ -3,8 +3,8 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding: 2rem  1rem 0 1rem;
-    height: calc(100vh - 200px);
+    padding: 0.2rem  1rem 0 1rem;
+    height: calc(730px - 200px);
 }
 
 .hero__content  {
@@ -42,10 +42,10 @@ color: #fff;
 .hero__image {
 width: 100%;
 height: 100%;
+margin: 6rem 0 0 0;
 }
 .hero__image img{
     width: 100%;
-    height:40rem;
     object-fit: contain;
 }
 
