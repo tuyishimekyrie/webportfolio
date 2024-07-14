@@ -12,8 +12,6 @@
 }
 .skills__table table {
     border-spacing: 3;
-    /* border: 1px solid red; */
-    /* padding: 12rem; */
 }
 .column{
     padding: 1.2rem;
@@ -36,7 +34,6 @@ table tr{
     gap: 1rem;
 }
 .skills__stack img{
-    /* padding: 0 1.4rem; */
     width: 50px;
 }
 .projects h2 {
@@ -46,8 +43,6 @@ table tr{
 }
 .cards {
     padding: 2rem 0;
-    /* transform: translateX(-5%);
-     */
      animation: slide 100ms ease-in-out;
 }
 @keyframes slide{
